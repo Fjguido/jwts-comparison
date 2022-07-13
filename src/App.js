@@ -12,6 +12,8 @@ import jwtsSouthernRing from './img/jwts-southern-ring.png';
 
 import Slider from './components';
 
+
+
 const slider1 = {
   delay: 2000,
   original: {
@@ -61,7 +63,7 @@ const slider4 = {
 const App = () => {
   
   return (
-      <div>
+      <div className="picture">
           <h2>Carina Nebula</h2>
           <Slider {...slider1}/>
 
