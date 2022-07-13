@@ -62,22 +62,22 @@ const App = () => {
   
   return (
       <div>
-          <h2>Slider #1</h2>
+          <h2>Carina Nebula</h2>
           <Slider {...slider1}/>
 
           <br/>
 
-          <h2>Slider #2</h2>
+          <h2>Stephen's Quintet</h2>
           <Slider {...slider2}/>
 
           <br/>
 
-          <h2>Slider #3</h2>
+          <h2>SMACS 0723 </h2>
           <Slider {...slider3}/>
 
           <br/>
 
-          <h2>Slider #4</h2>
+          <h2>Southern Ring</h2>
           <Slider {...slider4}/>
       </div>
   )

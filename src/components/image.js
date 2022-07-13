@@ -1,7 +1,7 @@
 import { Fragment} from 'react';
 import PropTypes from 'prop-types';
 
-import './style.css';
+import './imageStyle.css';
 
 const Image = ({url, title = ''}) => (
     <Fragment>

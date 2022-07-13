@@ -1,4 +1,4 @@
-import './style.css';
+import './handleStyle.css';
 
 const Handle = ({
     isDragStarted = false,
@@ -13,5 +13,6 @@ const Handle = ({
             ref={elementRefference}
             className={`cd-handle ${isDragStarted && 'draggable'}`}></span>
     );
+    
 
 export default Handle;
