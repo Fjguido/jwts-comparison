@@ -1,1 +1,1 @@
-## Comparison app to see differences from the James Webb Telescope
+## Hubble vs JWTS
