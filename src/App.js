@@ -10,7 +10,7 @@ import jwtsSmacs from './img/jwts-smacs.jpg';
 import hubbleSouthernRing from './img/hubble-southern-ring.jpeg';
 import jwtsSouthernRing from './img/jwts-southern-ring.png';
 
-import Slider from './components';
+import Slider from './components/slider';
 
 
 

@@ -6,7 +6,7 @@ import Image from './image.js';
 
 import Handle from './handle.js';
 
-import './style.css';
+import './slider.css';
 
 function Slider({ original, modified, delay = 0 }) {
   const [isVisible, setIsVisible] = useState(false);
