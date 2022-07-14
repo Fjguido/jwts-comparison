@@ -1,10 +1,10 @@
 import { useState, useRef, useEffect } from 'react';
 import PropTypes from 'prop-types';
 
-import Image from './image.js';
+import Image from '../picture/image.js';
 
 
-import Handle from './handle.js';
+import Handle from '../handle/handle.js';
 
 import './slider.css';
 
