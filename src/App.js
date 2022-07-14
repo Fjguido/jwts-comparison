@@ -63,23 +63,23 @@ const slider4 = {
 const App = () => {
   
   return (
-      <div className="picture">
-          <h2>Carina Nebula</h2>
+      <div>
+          <h2 className="pictureName">Carina Nebula</h2>
           <Slider {...slider1}/>
 
           <br/>
 
-          <h2>Stephen's Quintet</h2>
+          <h2 className="pictureName">Stephen's Quintet</h2>
           <Slider {...slider2}/>
 
           <br/>
 
-          <h2>SMACS 0723 </h2>
+          <h2 className="pictureName">SMACS 0723 </h2>
           <Slider {...slider3}/>
 
           <br/>
 
-          <h2>Southern Ring</h2>
+          <h2 className="pictureName">Southern Ring</h2>
           <Slider {...slider4}/>
       </div>
   )
