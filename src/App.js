@@ -64,7 +64,9 @@ const App = () => {
   
   return (
       <div>
-          <h2 className="pictureName">Carina Nebula</h2>
+        
+          <h2 className="pictureName"  >“Cosmic Cliffs” of the Carina Nebula</h2>
+       
           <Slider {...slider1}/>
 
           <br/>
@@ -79,7 +81,7 @@ const App = () => {
 
           <br/>
 
-          <h2 className="pictureName">Southern Ring</h2>
+          <h2 className="pictureName">Southern Ring Nebula</h2>
           <Slider {...slider4}/>
       </div>
   )
