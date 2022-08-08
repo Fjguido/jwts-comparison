@@ -10,6 +10,9 @@ import jwtsSmacs from './img/jwts-smacs.jpg';
 import hubbleSouthernRing from './img/hubble-southern-ring.jpeg';
 import jwtsSouthernRing from './img/jwts-southern-ring.png';
 
+import hubbleCartwheel from './img/hubble-cartwheel.jpeg';
+import jwstCartwheel from './img/jwst-cartwheel.png';
+
 import Slider from './components/slider/slider';
 
 
@@ -59,6 +62,16 @@ const slider4 = {
   }
 };
 
+const slider5 = {
+  original: {
+    url: hubbleCartwheel,
+    title: 'Hubble'
+},
+modified: {
+    url: jwstCartwheel,
+    title: 'JWTS'
+}
+}
 
 const App = () => {
   
@@ -83,6 +96,9 @@ const App = () => {
 
           <h2 className="pictureName">Southern Ring Nebula</h2>
           <Slider {...slider4}/>
+
+          <h2 className="pictureName">Cartwheel Galaxy</h2>
+          <Slider {...slider5}/>
       </div>
   )
 }
