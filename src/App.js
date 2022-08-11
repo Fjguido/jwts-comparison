@@ -18,7 +18,7 @@ import Slider from './components/slider/slider';
 
 
 const slider1 = {
-  delay: 2000,
+  delay: 1000,
   original: {
       url: hubbleCorina,
       title: 'Hubble'
@@ -78,27 +78,25 @@ const App = () => {
   return (
       <div>
         
-          <h2 className="pictureName"  >“Cosmic Cliffs” of the Carina Nebula</h2>
-       
+          <h2 className="pictureName" >“Cosmic Cliffs” of the Carina Nebula</h2>
           <Slider {...slider1}/>
-
           <br/>
 
           <h2 className="pictureName">Stephen's Quintet</h2>
           <Slider {...slider2}/>
-
           <br/>
 
           <h2 className="pictureName">SMACS 0723 </h2>
           <Slider {...slider3}/>
-
           <br/>
 
           <h2 className="pictureName">Southern Ring Nebula</h2>
           <Slider {...slider4}/>
+          <br/>
 
           <h2 className="pictureName">Cartwheel Galaxy</h2>
           <Slider {...slider5}/>
+          <br/>
       </div>
   )
 }
