@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jwts-comparison/static/css/main.8c798959.css",
+    "main.css": "/jwts-comparison/static/css/main.5f00d2d6.css",
     "main.js": "/jwts-comparison/static/js/main.16c59e65.js",
     "static/js/787.d6790b19.chunk.js": "/jwts-comparison/static/js/787.d6790b19.chunk.js",
     "static/media/jwst-cartwheel.png": "/jwts-comparison/static/media/jwst-cartwheel.7c59fd9dfde0313c9abf.png",
@@ -17,12 +17,12 @@
     "static/media/hubble-southern-ring.jpeg": "/jwts-comparison/static/media/hubble-southern-ring.ddd9f87c3ede0d590a86.jpeg",
     "index.html": "/jwts-comparison/index.html",
     "static/media/cd-arrows.svg": "/jwts-comparison/static/media/cd-arrows.41f46c1747077109ee31.svg",
-    "main.8c798959.css.map": "/jwts-comparison/static/css/main.8c798959.css.map",
+    "main.5f00d2d6.css.map": "/jwts-comparison/static/css/main.5f00d2d6.css.map",
     "main.16c59e65.js.map": "/jwts-comparison/static/js/main.16c59e65.js.map",
     "787.d6790b19.chunk.js.map": "/jwts-comparison/static/js/787.d6790b19.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c798959.css",
+    "static/css/main.5f00d2d6.css",
     "static/js/main.16c59e65.js"
   ]
 }
