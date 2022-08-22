@@ -11,9 +11,13 @@ import hubbleSouthernRing from './img/hubble-southern-ring.jpeg';
 import jwtsSouthernRing from './img/jwts-southern-ring.png';
 
 import hubbleCartwheel from './img/hubble-cartwheel.jpeg';
-import jwstCartwheel from './img/jwst-cartwheel.png';
+import jwtsCartwheel from './img/jwst-cartwheel.png';
+
+import hubbleJupiter from './img/hubble-jupiter.jpeg';
+import jwtsJupiter from './img/jwts-jupiter.jpeg';
 
 import Slider from './components/slider/slider';
+
 
 
 
@@ -68,7 +72,18 @@ const slider5 = {
     title: 'Hubble'
 },
 modified: {
-    url: jwstCartwheel,
+    url: jwtsCartwheel,
+    title: 'JWTS'
+}
+}
+
+const slider6 = {
+  original: {
+    url: hubbleJupiter,
+    title: 'Hubble'
+},
+modified: {
+    url: jwtsJupiter,
     title: 'JWTS'
 }
 }
@@ -96,6 +111,9 @@ const App = () => {
 
           <h2 className="pictureName">Cartwheel Galaxy</h2>
           <Slider {...slider5}/>
+
+          <h2 className="pictureName">Jupiter - NIRCam Closeup</h2>
+          <Slider {...slider6}/>
           <br/>
       </div>
   )
