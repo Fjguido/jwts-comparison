@@ -19,8 +19,6 @@ import jwtsJupiter from './img/jwts-jupiter.jpeg';
 import Slider from './components/slider/slider';
 
 
-
-
 const slider1 = {
   delay: 1000,
   original: {
