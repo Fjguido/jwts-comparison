@@ -18,3 +18,8 @@ display: flex;
 
 }
 
+.pictureDesc {
+justify-content: center;
+display: flex;
+}
+
