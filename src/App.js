@@ -16,6 +16,8 @@ import jwtsCartwheel from './img/jwst-cartwheel.png';
 import hubbleJupiter from './img/hubble-jupiter.jpeg';
 import jwtsJupiter from './img/jwts-jupiter.jpeg';
 
+
+
 import Slider from './components/slider/slider';
 
 const slider1 = {
