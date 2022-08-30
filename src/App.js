@@ -16,7 +16,8 @@ import jwtsCartwheel from './img/jwst-cartwheel.png';
 import hubbleJupiter from './img/hubble-jupiter.jpeg';
 import jwtsJupiter from './img/jwts-jupiter.jpeg';
 
-
+import hubbleM74 from './img/hubble-M74.jpeg';
+import jwtsM74 from './img/jwts-M74.jpeg';
 
 import Slider from './components/slider/slider';
 
@@ -83,6 +84,17 @@ const slider6 = {
 },
 modified: {
     url: jwtsJupiter,
+    title: 'JWTS'
+}
+}
+
+const slider7 = {
+  original: {
+    url: hubbleM74,
+    title: 'Hubble'
+},
+modified: {
+    url: jwtsM74,
     title: 'JWTS'
 }
 }
@@ -156,6 +168,20 @@ const App = () => {
           also highlights light reflected from lower clouds and upper hazes. A different filter, mapped to yellows and greens, shows hazes swirling 
           around the northern and southern poles. A third filter, mapped to blues, showcases light that is reflected from a deeper main cloud. The Great Red Spot, 
           a famous storm so big it could swallow Earth, appears white in these views, as do other clouds, because they are reflecting a lot of sunlight.</h6>
+          <br/>
+
+          <h2 className="pictureName">Heart of the Phantom Galaxy - M74</h2>
+          <Slider {...slider7}/>
+          <h6 className="pictureDesc">This image from the NASA/ESA/CSA James Webb Space Telescope shows the heart of M74, otherwise known as the Phantom Galaxy. 
+          Webb’s sharp vision has revealed delicate filaments of gas and dust in the grandiose spiral arms which wind outwards from the centre of this image. A 
+          lack of gas in the nuclear region also provides an unobscured view of the nuclear star cluster at the galaxy's centre. M74 is a particular class of spiral 
+          galaxy known as a ‘grand design spiral’, meaning that its spiral arms are prominent and well-defined, unlike the patchy and ragged structure seen in some 
+          spiral galaxies. The Phantom Galaxy is around 32 million light-years away from Earth in the constellation Pisces, and lies almost face-on to Earth. This, coupled
+          with its well-defined spiral arms, makes it a favourite target for astronomers studying the origin and structure of galactic spirals. Webb gazed into M74 with its 
+          Mid-InfraRed Instrument (MIRI) in order to learn more about the earliest phases of star formation in the local Universe. These observations are part of a larger effort 
+          to chart 19 nearby star-forming galaxies in the infrared by the international PHANGS collaboration. Those galaxies have already been observed using the NASA/ESA Hubble 
+          Space Telescope and ground-based observatories. The addition of crystal-clear Webb observations at longer wavelengths will allow astronomers to pinpoint star-forming 
+          regions in the galaxies, accurately measure the masses and ages of star clusters, and gain insights into the nature of the small grains of dust drifting in interstellar space.</h6>
           <br/>
       </div>
   )
