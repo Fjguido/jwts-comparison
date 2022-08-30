@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jwts-comparison/static/css/main.5b8e8f35.css",
-    "main.js": "/jwts-comparison/static/js/main.9fa05ff1.js",
+    "main.js": "/jwts-comparison/static/js/main.b136e5ee.js",
     "static/js/787.d6790b19.chunk.js": "/jwts-comparison/static/js/787.d6790b19.chunk.js",
     "static/media/jwst-cartwheel.png": "/jwts-comparison/static/media/jwst-cartwheel.7c59fd9dfde0313c9abf.png",
     "static/media/hubble-carina.jpeg": "/jwts-comparison/static/media/hubble-carina.54da74c6316462958813.jpeg",
@@ -10,7 +10,9 @@
     "static/media/jwts-carina.jpg": "/jwts-comparison/static/media/jwts-carina.fb44809d5aae4b77a3f1.jpg",
     "static/media/jwts-quintet.jpg": "/jwts-comparison/static/media/jwts-quintet.ea723d0649307917e2e5.jpg",
     "static/media/jwts-smacs.jpg": "/jwts-comparison/static/media/jwts-smacs.e7bbc3e547534ebb4997.jpg",
+    "static/media/hubble-M74.jpeg": "/jwts-comparison/static/media/hubble-M74.45929dcfdaabd31f872d.jpeg",
     "static/media/hubble-cartwheel.jpeg": "/jwts-comparison/static/media/hubble-cartwheel.482ece3ebbbb7503de31.jpeg",
+    "static/media/jwts-M74.jpeg": "/jwts-comparison/static/media/jwts-M74.141f229cf983b47f1aec.jpeg",
     "static/media/jwts-jupiter.jpeg": "/jwts-comparison/static/media/jwts-jupiter.7699f4ca496e28788e69.jpeg",
     "static/media/hubble-smacs.webp": "/jwts-comparison/static/media/hubble-smacs.b95a180404727c5b8b30.webp",
     "static/media/hubble-jupiter.jpeg": "/jwts-comparison/static/media/hubble-jupiter.8e1c796eab1c9ec66db2.jpeg",
@@ -18,11 +20,11 @@
     "index.html": "/jwts-comparison/index.html",
     "static/media/cd-arrows.svg": "/jwts-comparison/static/media/cd-arrows.41f46c1747077109ee31.svg",
     "main.5b8e8f35.css.map": "/jwts-comparison/static/css/main.5b8e8f35.css.map",
-    "main.9fa05ff1.js.map": "/jwts-comparison/static/js/main.9fa05ff1.js.map",
+    "main.b136e5ee.js.map": "/jwts-comparison/static/js/main.b136e5ee.js.map",
     "787.d6790b19.chunk.js.map": "/jwts-comparison/static/js/787.d6790b19.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b8e8f35.css",
-    "static/js/main.9fa05ff1.js"
+    "static/js/main.b136e5ee.js"
   ]
 }
