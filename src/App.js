@@ -201,7 +201,14 @@ const App = () => {
 
           <h2 className="pictureName">Tarantula Nebula</h2>
           <Slider {...slider8}/>
-          <h6 className="pictureDesc"></h6>
+          <h6 className="pictureDesc">In this mosaic image stretching 340 light-years across, Webb’s Near-Infrared Camera (NIRCam) displays the Tarantula Nebula star-forming region 
+          in a new light, including tens of thousands of never-before-seen young stars that were previously shrouded in cosmic dust. The most active region appears to sparkle with 
+          massive young stars, appearing pale blue. Scattered among them are still-embedded stars, appearing red, yet to emerge from the dusty cocoon of the nebula. NIRCam is able 
+          to detect these dust-enshrouded stars thanks to its unprecedented resolution at near-infrared wavelengths. To the upper left of the cluster of young stars, and the top of 
+          the nebula’s cavity, an older star prominently displays NIRCam’s distinctive eight diffraction spikes, an artefact of the telescope’s structure. Following the top central 
+          spike of this star upward, it almost points to a distinctive bubble in the cloud. Young stars still surrounded by dusty material are blowing this bubble, beginning to carve 
+          out their own cavity. Astronomers used two of Webb’s spectrographs to take a closer look at this region and determine the chemical makeup of the star and its surrounding gas. 
+          This spectral information will tell astronomers about the age of the nebula and how many generations of star birth it has seen.</h6>
           <br/>
       </div>
   )
