@@ -19,6 +19,9 @@ import jwtsJupiter from './img/jwts-jupiter.jpeg';
 import hubbleM74 from './img/hubble-M74.jpeg';
 import jwtsM74 from './img/jwts-M74.jpeg';
 
+import hubbleTarantula from './img/hubble-tarantula.jpeg';
+import jwtsTarantula from './img/jwts-tarantula.jpeg';
+
 import Slider from './components/slider/slider';
 
 const slider1 = {
@@ -97,6 +100,19 @@ modified: {
     url: jwtsM74,
     title: 'JWTS'
 }
+}
+
+const slider8 = {
+  original: {
+    url: hubbleTarantula,
+    title: 'Hubble'
+},
+modified: {
+    url: jwtsTarantula,
+    title: 'JWTS'
+}
+
+
 }
 
 const App = () => {
@@ -182,6 +198,10 @@ const App = () => {
           to chart 19 nearby star-forming galaxies in the infrared by the international PHANGS collaboration. Those galaxies have already been observed using the NASA/ESA Hubble 
           Space Telescope and ground-based observatories. The addition of crystal-clear Webb observations at longer wavelengths will allow astronomers to pinpoint star-forming 
           regions in the galaxies, accurately measure the masses and ages of star clusters, and gain insights into the nature of the small grains of dust drifting in interstellar space.</h6>
+
+          <h2 className="pictureName">Tarantula Nebula</h2>
+          <Slider {...slider8}/>
+          <h6 className="pictureDesc"></h6>
           <br/>
       </div>
   )
