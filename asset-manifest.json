@@ -1,16 +1,18 @@
 {
   "files": {
     "main.css": "/jwts-comparison/static/css/main.5b8e8f35.css",
-    "main.js": "/jwts-comparison/static/js/main.feffd999.js",
+    "main.js": "/jwts-comparison/static/js/main.57acd6f6.js",
     "static/js/787.d6790b19.chunk.js": "/jwts-comparison/static/js/787.d6790b19.chunk.js",
     "static/media/jwst-cartwheel.png": "/jwts-comparison/static/media/jwst-cartwheel.7c59fd9dfde0313c9abf.png",
     "static/media/hubble-carina.jpeg": "/jwts-comparison/static/media/hubble-carina.54da74c6316462958813.jpeg",
     "static/media/jwts-southern-ring.png": "/jwts-comparison/static/media/jwts-southern-ring.f7edb18cf850db7d614d.png",
+    "static/media/hubble-pillars.jpeg": "/jwts-comparison/static/media/hubble-pillars.77f8dccc4d73384f0df4.jpeg",
     "static/media/hubble-quintet.png": "/jwts-comparison/static/media/hubble-quintet.d771c438e30f1daf09a9.png",
     "static/media/jwts-carina.jpg": "/jwts-comparison/static/media/jwts-carina.fb44809d5aae4b77a3f1.jpg",
     "static/media/jwts-quintet.jpg": "/jwts-comparison/static/media/jwts-quintet.ea723d0649307917e2e5.jpg",
     "static/media/jwts-smacs.jpg": "/jwts-comparison/static/media/jwts-smacs.e7bbc3e547534ebb4997.jpg",
     "static/media/hubble-M74.jpeg": "/jwts-comparison/static/media/hubble-M74.45929dcfdaabd31f872d.jpeg",
+    "static/media/jwts-pillars.jpeg": "/jwts-comparison/static/media/jwts-pillars.bf4bd6115f5271e5216a.jpeg",
     "static/media/hubble-cartwheel.jpeg": "/jwts-comparison/static/media/hubble-cartwheel.482ece3ebbbb7503de31.jpeg",
     "static/media/jwts-M74.jpeg": "/jwts-comparison/static/media/jwts-M74.141f229cf983b47f1aec.jpeg",
     "static/media/hubble-tarantula.jpeg": "/jwts-comparison/static/media/hubble-tarantula.e513473af1a999422d37.jpeg",
@@ -22,11 +24,11 @@
     "index.html": "/jwts-comparison/index.html",
     "static/media/cd-arrows.svg": "/jwts-comparison/static/media/cd-arrows.41f46c1747077109ee31.svg",
     "main.5b8e8f35.css.map": "/jwts-comparison/static/css/main.5b8e8f35.css.map",
-    "main.feffd999.js.map": "/jwts-comparison/static/js/main.feffd999.js.map",
+    "main.57acd6f6.js.map": "/jwts-comparison/static/js/main.57acd6f6.js.map",
     "787.d6790b19.chunk.js.map": "/jwts-comparison/static/js/787.d6790b19.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b8e8f35.css",
-    "static/js/main.feffd999.js"
+    "static/js/main.57acd6f6.js"
   ]
 }
