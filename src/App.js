@@ -22,6 +22,9 @@ import jwtsM74 from './img/jwts-M74.jpeg';
 import hubbleTarantula from './img/hubble-tarantula.jpeg';
 import jwtsTarantula from './img/jwts-tarantula.jpeg';
 
+import hubblePillars from './img/hubble-pillars.jpeg';
+import jwtsPillars from './img/jwts-pillars.jpeg';
+
 import Slider from './components/slider/slider';
 
 const slider1 = {
@@ -112,8 +115,20 @@ modified: {
     title: 'JWTS'
 }
 
+}
+
+const slider9 = {
+  original: {
+    url: hubblePillars,
+    title: 'Hubble'
+},
+modified: {
+    url: jwtsPillars,
+    title: 'JWTS'
+}
 
 }
+
 
 const App = () => {
   
@@ -209,6 +224,22 @@ const App = () => {
           spike of this star upward, it almost points to a distinctive bubble in the cloud. Young stars still surrounded by dusty material are blowing this bubble, beginning to carve 
           out their own cavity. Astronomers used two of Webb’s spectrographs to take a closer look at this region and determine the chemical makeup of the star and its surrounding gas. 
           This spectral information will tell astronomers about the age of the nebula and how many generations of star birth it has seen.</h6>
+          <br/>
+
+          <h2 className="pictureName">Pillars of Creation</h2>
+          <Slider {...slider9}/>
+          <h6 className="pictureDesc">The Pillars of Creation are set off in a kaleidoscope of colour in the NASA/ESA/CSA James Webb Space Telescope’s 
+          near-infrared-light view. The pillars look like arches and spires rising out of a desert landscape, but are filled with semi-transparent gas and dust,
+           and ever changing. This is a region where young stars are forming – or have barely burst from their dusty cocoons as they continue to form.
+           Protostars are the scene-stealers in this Near-Infrared Camera (NIRCam) image. These are the bright red orbs that sometimes appear with eight diffraction spikes. 
+           When knots with sufficient mass form within the pillars, they begin to collapse under their own gravity, slowly heat up, and eventually begin shining brightly.
+           Along the edges of the pillars are wavy lines that look like lava. These are ejections from stars that are still forming. Young stars periodically shoot out jets that can interact 
+           within clouds of material, like these thick pillars of gas and dust. This sometimes also results in bow shocks, which can form wavy patterns like a boat does as it moves through water. 
+           These young stars are estimated to be only a few hundred thousand years old, and will continue to form for millions of years.This translucent layer of gas blocks our view of the deeper 
+           universe. Plus, dust is lit up by the collective light from the packed “party” of stars that have burst free from the pillars. It’s like standing in a well-lit room looking out a window – 
+           the interior light reflects on the pane, obscuring the scene outside and, in turn, illuminating the activity at the party inside.
+
+</h6>
           <br/>
       </div>
   )
