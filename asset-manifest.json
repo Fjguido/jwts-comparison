@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jwts-comparison/static/css/main.5b8e8f35.css",
-    "main.js": "/jwts-comparison/static/js/main.57acd6f6.js",
+    "main.js": "/jwts-comparison/static/js/main.8e26ddb2.js",
     "static/js/787.d6790b19.chunk.js": "/jwts-comparison/static/js/787.d6790b19.chunk.js",
     "static/media/jwst-cartwheel.png": "/jwts-comparison/static/media/jwst-cartwheel.7c59fd9dfde0313c9abf.png",
     "static/media/hubble-carina.jpeg": "/jwts-comparison/static/media/hubble-carina.54da74c6316462958813.jpeg",
@@ -17,6 +17,8 @@
     "static/media/jwts-M74.jpeg": "/jwts-comparison/static/media/jwts-M74.141f229cf983b47f1aec.jpeg",
     "static/media/hubble-tarantula.jpeg": "/jwts-comparison/static/media/hubble-tarantula.e513473af1a999422d37.jpeg",
     "static/media/jwts-tarantula.jpeg": "/jwts-comparison/static/media/jwts-tarantula.ea6e11eb6875334ed64a.jpeg",
+    "static/media/jwst-IC1623.jpeg": "/jwts-comparison/static/media/jwst-IC1623.0dae11cecc2df3e9ca5b.jpeg",
+    "static/media/hubble-IC1623.jpeg": "/jwts-comparison/static/media/hubble-IC1623.2c452930c18e97c4d344.jpeg",
     "static/media/jwts-jupiter.jpeg": "/jwts-comparison/static/media/jwts-jupiter.7699f4ca496e28788e69.jpeg",
     "static/media/hubble-smacs.webp": "/jwts-comparison/static/media/hubble-smacs.b95a180404727c5b8b30.webp",
     "static/media/hubble-jupiter.jpeg": "/jwts-comparison/static/media/hubble-jupiter.8e1c796eab1c9ec66db2.jpeg",
@@ -24,11 +26,11 @@
     "index.html": "/jwts-comparison/index.html",
     "static/media/cd-arrows.svg": "/jwts-comparison/static/media/cd-arrows.41f46c1747077109ee31.svg",
     "main.5b8e8f35.css.map": "/jwts-comparison/static/css/main.5b8e8f35.css.map",
-    "main.57acd6f6.js.map": "/jwts-comparison/static/js/main.57acd6f6.js.map",
+    "main.8e26ddb2.js.map": "/jwts-comparison/static/js/main.8e26ddb2.js.map",
     "787.d6790b19.chunk.js.map": "/jwts-comparison/static/js/787.d6790b19.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b8e8f35.css",
-    "static/js/main.57acd6f6.js"
+    "static/js/main.8e26ddb2.js"
   ]
 }
